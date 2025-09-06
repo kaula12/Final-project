@@ -13,6 +13,11 @@
 
 THE PROJECT WAS WHOLLY DONE BY THE GROUP MEMBERS. EVERYONE LISTED PARTICIPATED IN THE WORK EQUALLY. EVERY SECTION WAS DISCUSSED AS A GROUP WITH EACH MEMBER HAVING A PART IN IT.
 
+## Tableau public
+
+https://public.tableau.com/app/profile/marcus.kaula/viz/visualizations_17571433900680/Dashboard2
+
+
 ## Overview
 
 This notebook presents an exploratory data analysis of crop yield, population, and land area in the Karamoja District of Uganda. Agriculture is a critical sector in this region, and understanding the factors influencing crop production is essential for improving food security and livelihoods. This analysis focuses on key metrics such as sorghum and maize yields per hectare, cultivated land areas, and total production, alongside population data. The goal is to identify patterns, variations, and potential relationships between these variables across different districts within Karamoja.
